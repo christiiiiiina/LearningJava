@@ -1,0 +1,26 @@
+[2021-05-29 12:58:38.674] [FATAL] learn.java.LogTest.testQuick(LogTest.java:16) learn.java.LogTest - fatal
+[2021-05-29 12:58:38.679] [ERROR] learn.java.LogTest.testQuick(LogTest.java:17) learn.java.LogTest - error
+[2021-05-29 12:58:38.674] [FATAL]  learn.java.LogTest - fatal
+[2021-05-29 12:58:38.679] [ERROR]  learn.java.LogTest - error
+[2021-05-29 12:58:38.679] [WARN ] learn.java.LogTest.testQuick(LogTest.java:18) learn.java.LogTest - warn
+[2021-05-29 12:58:38.679] [WARN ]  learn.java.LogTest - warn
+[2021-05-29 12:58:38.679] [INFO ] learn.java.LogTest.testQuick(LogTest.java:19) learn.java.LogTest - info
+[2021-05-29 12:58:38.679] [INFO ]  learn.java.LogTest - info
+[2021-05-29 12:58:38.680] [DEBUG] learn.java.LogTest.testQuick(LogTest.java:20) learn.java.LogTest - debug
+[2021-05-29 12:58:38.680] [DEBUG]  learn.java.LogTest - debug
+[2021-05-29 12:58:38.680] [TRACE] learn.java.LogTest.testQuick(LogTest.java:21) learn.java.LogTest - trace
+[2021-05-29 12:58:38.680] [TRACE]  learn.java.LogTest - trace
+[2021-05-29 12:59:41.670] [ERROR] learn.java.Slf4jTest.testQuick(Slf4jTest.java:19) learn.java.Slf4jTest - error
+[2021-05-29 12:59:41.674] [WARN ] learn.java.Slf4jTest.testQuick(Slf4jTest.java:20) learn.java.Slf4jTest - warning
+[2021-05-29 12:59:41.670] [ERROR]  learn.java.Slf4jTest - error
+[2021-05-29 12:59:41.674] [WARN ]  learn.java.Slf4jTest - warning
+[2021-05-29 12:59:41.675] [INFO ] learn.java.Slf4jTest.testQuick(Slf4jTest.java:21) learn.java.Slf4jTest - info
+[2021-05-29 12:59:41.675] [INFO ]  learn.java.Slf4jTest - info
+[2021-05-29 12:59:41.675] [DEBUG] learn.java.Slf4jTest.testQuick(Slf4jTest.java:22) learn.java.Slf4jTest - debug
+[2021-05-29 12:59:41.675] [DEBUG]  learn.java.Slf4jTest - debug
+[2021-05-29 12:59:41.675] [TRACE] learn.java.Slf4jTest.testQuick(Slf4jTest.java:23) learn.java.Slf4jTest - trace
+[2021-05-29 12:59:41.675] [TRACE]  learn.java.Slf4jTest - trace
+[2021-05-29 13:17:31.976] [INFO ] learn.java.ControlFor.getMoney(ControlFor.java:20) learn.java.ControlFor - 10天后，收入是：1024
+[2021-05-29 13:17:31.976] [INFO ]  learn.java.ControlFor - 10天后，收入是：1024
+[2021-05-29 13:20:29.251] [INFO ]  learn.java.ControlFor - 100天后，收入是：0
+[2021-05-29 13:21:05.612] [INFO ]  learn.java.ControlFor - 30天后，收入是：1073741824

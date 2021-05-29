@@ -1,0 +1,4 @@
+[2021-05-29 12:59:41.670] [ERROR] learn.java.Slf4jTest.testQuick(Slf4jTest.java:19) learn.java.Slf4jTest - error
+[2021-05-29 12:59:41.674] [WARN ] learn.java.Slf4jTest.testQuick(Slf4jTest.java:20) learn.java.Slf4jTest - warning
+[2021-05-29 12:59:41.675] [INFO ] learn.java.Slf4jTest.testQuick(Slf4jTest.java:21) learn.java.Slf4jTest - info
+[2021-05-29 12:59:41.675] [DEBUG] learn.java.Slf4jTest.testQuick(Slf4jTest.java:22) learn.java.Slf4jTest - debug

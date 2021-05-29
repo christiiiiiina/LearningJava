@@ -1,0 +1,5 @@
+[2021-05-29 12:58:38.674] [FATAL] learn.java.LogTest.testQuick(LogTest.java:16) learn.java.LogTest - fatal
+[2021-05-29 12:58:38.679] [ERROR] learn.java.LogTest.testQuick(LogTest.java:17) learn.java.LogTest - error
+[2021-05-29 12:58:38.679] [WARN ] learn.java.LogTest.testQuick(LogTest.java:18) learn.java.LogTest - warn
+[2021-05-29 12:58:38.679] [INFO ] learn.java.LogTest.testQuick(LogTest.java:19) learn.java.LogTest - info
+[2021-05-29 12:58:38.680] [DEBUG] learn.java.LogTest.testQuick(LogTest.java:20) learn.java.LogTest - debug
