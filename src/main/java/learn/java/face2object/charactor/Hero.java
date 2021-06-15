@@ -7,6 +7,16 @@ public class Hero {
     private String name;
     private int hp;
     private float armor;
+    int moveSpeed = 200;
+
+    public Hero(){
+        System.out.println("Hero的构造方法");
+    }
+
+    public Hero(String name){
+        System.out.println("Hero的有一个参数的构造方法");
+        this.name = name;
+    }
 
     public void kill(Mortal m){
         m.die();
