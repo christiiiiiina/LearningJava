@@ -1,4 +1,4 @@
-package learn.java.face2object;
+package learn.java.face2object.charactor;
 
 /**
  * @author Administrator
