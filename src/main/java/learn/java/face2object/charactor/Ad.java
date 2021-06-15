@@ -1,4 +1,4 @@
-package learn.java.face2object;
+package learn.java.face2object.charactor;
 
 /**
  * @author Administrator
@@ -7,5 +7,5 @@ public interface Ad {
     /**
      * 物理伤害
      */
-    public void physicAttack();
+    void physicAttack();
 }
