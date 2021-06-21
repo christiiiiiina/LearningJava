@@ -37,6 +37,11 @@ public class AdHero extends Hero implements Ad, Mortal {
         System.out.println("ad hero battle win");
     }
 
+    @Override
+    public void attack(){
+        physicAttack();
+    }
+
     public static void main(String[] args) {
         AdHero h = new AdHero("德莱文");
         System.out.println(h.getMoveSpeed());

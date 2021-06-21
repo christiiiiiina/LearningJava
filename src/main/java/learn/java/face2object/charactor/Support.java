@@ -8,4 +8,9 @@ public class Support extends Hero implements Healer{
     public void heal() {
         System.out.println("进行治疗回血");
     }
+
+    @Override
+    public void attack(){
+        System.out.println("进行伤害很低的攻击");
+    }
 }

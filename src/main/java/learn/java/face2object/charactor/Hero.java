@@ -3,7 +3,7 @@ package learn.java.face2object.charactor;
 /**
  * @author Administrator
  */
-public class Hero {
+public abstract class Hero {
     private String name;
     private int hp;
     private float armor;
@@ -25,6 +25,11 @@ public class Hero {
     public static void battleWin(){
         System.out.println("hero battle win");
     }
+
+    /**
+     * 抽象方法 attack
+     */
+    public abstract void attack();
 
     public String getName() {
         return name;
@@ -54,7 +59,7 @@ public class Hero {
         AdHero ad = new AdHero();
         ApHero ap = new ApHero();
         AdApHero adap = new AdApHero();
-        Hero garen = new Hero();
+        Hero garen = new AdApHero();
 
         garen.kill(ad);
         garen.kill(ap);

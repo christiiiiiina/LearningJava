@@ -18,4 +18,8 @@ public class AdApHero extends Hero implements Ad, Ap, Mortal {
     public void die(){
         System.out.println("混合英雄死亡");
     }
+
+    public void attack(){
+        System.out.println("既可以进行物理攻击，也可以进行魔法攻击");
+    }
 }

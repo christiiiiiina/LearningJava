@@ -13,4 +13,9 @@ public class ApHero extends Hero implements Ap, Mortal {
     public void die(){
         System.out.println("魔法英雄死亡");
     }
+
+    @Override
+    public void attack(){
+        magicAttack();
+    }
 }

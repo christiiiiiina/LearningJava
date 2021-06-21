@@ -1,6 +1,6 @@
 package learn.java.face2object.property;
 
-public class Item {
+public abstract class Item {
     private String name;
     private int price;
 
@@ -11,4 +11,6 @@ public class Item {
     public void effect(){
         System.out.println("物品使用后，可以有效果");
     }
+
+    public abstract boolean disposable();
 }
